@@ -122,10 +122,10 @@ button {
 
 /*========== Variables Dark theme ==========*/
 body.dark-theme {
-  --title-color: hsl(355, 4%, 95%);
-  --text-color: hsl(355, 4%, 75%);
-  --body-color: hsl(355, 20%, 12%);
-  --container-color: hsl(355, 16%, 16%);
+   --title-color: hsl(280, 60%, 80%); /* Light purple for titles */
+  --text-color: hsl(160, 80%, 70%); /* Teal for text */
+  --body-color: hsl(240, 15%, 10%); /* Deep dark blue for body background */
+  --container-color: hsl(240, 20%, 15%); /* Slightly lighter dark blue for containers */
 }
 
 /*========== 
